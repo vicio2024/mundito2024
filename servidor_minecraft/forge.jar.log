@@ -1,12 +1,12 @@
 JVM info: Microsoft - 21.0.4 - 21.0.4+7-LTS
 java.net.preferIPv4Stack=true
-Current Time: 27/09/2024 23:16:57
+Current Time: 24/10/2024 16:35:28
 Host: files.minecraftforge.net [104.21.58.163, 172.67.161.211]
-Host: maven.minecraftforge.net [104.21.58.163, 172.67.161.211]
-Host: libraries.minecraft.net [13.107.253.41]
-Host: launchermeta.mojang.com [13.107.246.41]
+Host: maven.minecraftforge.net [172.67.161.211, 104.21.58.163]
+Host: libraries.minecraft.net [13.107.246.41]
+Host: launchermeta.mojang.com [13.107.253.41]
 Host: piston-meta.mojang.com [13.107.253.41]
-Host: sessionserver.mojang.com [13.107.253.41]
+Host: sessionserver.mojang.com [13.107.246.41]
 Host: authserver.mojang.com [Unknown]
 Target Directory: .
 Extracting main jar:
